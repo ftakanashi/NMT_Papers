@@ -13,7 +13,7 @@ If you are interested in machine translation and have any questions, **please fe
 * [Attention Mechanism](#attention)
 * [Model Improvement](#modelimprovement)
 * [Discourse and Document-level NMT](#document-level)
-* [Leanring Framework and Objective Function](#objectivefunction)
+* [Learning Framework and Objective Function](#objectivefunction)
 * [Robustness](#robustness)
 * [Data Augmentation](#data)
 * [Low Source](#lowsource)
@@ -1410,6 +1410,13 @@ ICLR 2020.
 [paper](https://openreview.net/pdf?id=Hyl7ygStwB)
 [code](https://github.com/bert-nmt/bert-nmt)
 
+* **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension**
+*Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke
+Zettlemoyer.*
+ACL 2020.
+[paper](https://www.aclweb.org/anthology/2020.acl-main.703.pdf)
+[code](https://github.com/pytorch/fairseq)
+ 
 #### Language + Image:
 
 * **Attention Strategies for Multi-Source Sequence-to-Sequence Learning.**
@@ -1494,8 +1501,9 @@ ACL 2018.
 
 * **BPE-Dropout: Simple and Effective Subword Regularization.**
 *Ivan Provilkov, Dmitrii Emelianenko, Elena Voita.*
-Arxiv 2018.
-[paper](https://arxiv.org/pdf/1910.13267.pdf)
+ACL 2020.
+[paper](https://www.aclweb.org/anthology/2020.acl-main.170.pdf)
+
 
 <h2 id="evaluation">Evaluation:</h2>
 
